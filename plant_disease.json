@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Apple___Apple_scab",
+    "cause": "Fungus Venturia inaequalis. Favourable conditions are cool, wet weather.",
+    "cure": "Use fungicides and resistant apple varieties. Prune and destroy infected leaves."
+  },
+  {
+    "name": "Apple___Black_rot",
+    "cause": "Caused by the fungus Botryosphaeria obtusa.",
+    "cure": "Prune and remove infected areas. Apply fungicides during the growing season."
+  },
+  {
+    "name": "Apple___Cedar_apple_rust",
+    "cause": "Fungus Gymnosporangium juniperi-virginianae.",
+    "cure": "Remove nearby juniper hosts. Use resistant varieties and fungicides."
+  },
+  {
+    "name": "Apple___healthy",
+    "cause": "No disease present.",
+    "cure": "Maintain good cultural practices."
+  },
+  {
+    "name": "Cherry___Powdery_mildew",
+    "cause": "Fungus Podosphaera clandestina.",
+    "cure": "Apply sulfur-based fungicides."
+  },
+  {
+    "name": "Cherry___healthy",
+    "cause": "No disease present.",
+    "cure": "Maintain good cultural practices."
+  },
+  {
+    "name": "Corn___Cercospora_leaf_spot Gray_leaf_spot",
+    "cause": "Fungus Cercospora zeae-maydis.",
+    "cure": "Use resistant hybrids and fungicides."
+  },
+  {
+    "name": "Corn___Common_rust",
+    "cause": "Fungus Puccinia sorghi.",
+    "cure": "Apply fungicides."
+  },
+  {
+    "name": "Corn___Northern_Leaf_Blight",
+    "cause": "Fungus Exserohilum turcicum.",
+    "cure": "Use resistant varieties."
+  },
+  {
+    "name": "Corn___healthy",
+    "cause": "No disease present.",
+    "cure": "Maintain good practices."
+  },
+  {
+    "name": "Grape___Black_rot",
+    "cause": "Fungus Guignardia bidwellii.",
+    "cure": "Prune infected areas."
+  },
+  {
+    "name": "Grape___Esca_(Black_Measles)",
+    "cause": "Fungal complex.",
+    "cure": "Remove infected wood."
+  },
+  {
+    "name": "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
+    "cause": "Fungus Pseudocercospora vitis.",
+    "cure": "Apply fungicides."
+  },
+  {
+    "name": "Grape___healthy",
+    "cause": "No disease present.",
+    "cure": "Maintain good practices."
+  },
+  {
+    "name": "Orange___Haunglongbing_(Citrus_greening)",
+    "cause": "Bacterium spread by psyllids.",
+    "cure": "Control insects and remove infected trees."
+  },
+  {
+    "name": "Peach___Bacterial_spot",
+    "cause": "Bacterium Xanthomonas campestris.",
+    "cure": "Use resistant varieties."
+  },
+  {
+    "name": "Peach___healthy",
+    "cause": "No disease present.",
+    "cure": "Maintain good practices."
+  },
+  {
+    "name": "Pepper,_bell___Bacterial_spot",
+    "cause": "Bacterium Xanthomonas.",
+    "cure": "Use bactericides."
+  },
+  {
+    "name": "Pepper,_bell___healthy",
+    "cause": "No disease present.",
+    "cure": "Maintain good practices."
+  },
+  {
+    "name": "Potato___Early_blight",
+    "cause": "Fungus Alternaria solani.",
+    "cure": "Apply fungicides."
+  },
+  {
+    "name": "Potato___Late_blight",
+    "cause": "Phytophthora infestans.",
+    "cure": "Use resistant varieties."
+  },
+  {
+    "name": "Potato___healthy",
+    "cause": "No disease present.",
+    "cure": "Maintain good practices."
+  },
+  {
+    "name": "Tomato___Bacterial_spot",
+    "cause": "Bacterium Xanthomonas.",
+    "cure": "Use bactericides."
+  },
+  {
+    "name": "Tomato___Early_blight",
+    "cause": "Fungus Alternaria solani.",
+    "cure": "Apply fungicides."
+  },
+  {
+    "name": "Tomato___Late_blight",
+    "cause": "Phytophthora infestans.",
+    "cure": "Use resistant varieties."
+  },
+  {
+    "name": "Tomato___Leaf_Mold",
+    "cause": "Fungus Passalora fulva.",
+    "cure": "Ensure ventilation."
+  },
+  {
+    "name": "Tomato___Septoria_leaf_spot",
+    "cause": "Fungus Septoria lycopersici.",
+    "cure": "Remove infected leaves."
+  },
+  {
+    "name": "Tomato___Spider_mites Two-spotted_spider_mite",
+    "cause": "Spider mites.",
+    "cure": "Use miticides."
+  },
+  {
+    "name": "Tomato___Target_Spot",
+    "cause": "Fungus Corynespora.",
+    "cure": "Apply fungicides."
+  },
+  {
+    "name": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+    "cause": "Virus spread by whiteflies.",
+    "cure": "Control whiteflies."
+  },
+  {
+    "name": "Tomato___Tomato_mosaic_virus",
+    "cause": "Virus.",
+    "cure": "Remove infected plants."
+  },
+  {
+    "name": "Tomato___healthy",
+    "cause": "No disease present.",
+    "cure": "Maintain good practices."
+  }
+]
